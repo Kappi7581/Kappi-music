@@ -26,7 +26,7 @@ module.exports = {
   ownerID: ["1272964504657068197"], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
-  embedColor: "#FF9400",
+  embedColor: "#800080",
   musicardTheme:"themes16", //Goes from themes1 to themes19
   activityName: "Kappi7581 • Music", // This is bot status Write Anything here 
   activityType: "WATCHING",  // Available activity types : LISTENING , PLAYING
