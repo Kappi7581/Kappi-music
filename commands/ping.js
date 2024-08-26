@@ -36,7 +36,7 @@ module.exports = {
         const end = Date.now();
         const embed = new EmbedBuilder()
           .setColor(config.embedColor)
-          .setTitle(`Bot Latency`)
+          .setTitle(`Kappi7581 • Music Ping =`)
           .setDescription(`**Pong** : ${end - start}ms`)
         return interaction.editReply({ embeds: [embed] }).catch(e => { });
       }).catch(err => { })
