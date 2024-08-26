@@ -23,7 +23,7 @@ const config = require("../config.js");
 
 module.exports = {
   name: "ping",
-  description: "check the bot latency",
+  description: "Kappi7581 • Music Ping =",
   permissions: "0x0000000000000800",
   options: [],
   run: async (client, interaction) => {
