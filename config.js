@@ -22,13 +22,13 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTI3Mjk2OTMzNDc4Mzc0MjAxMw.GhvKK_.hF28rsIr4jb3qTaV-31tB7bQtTmzoaojcT0nw0",
   ownerID: ["1272964504657068197"], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#800080",
-  musicardTheme:"themes16", //Goes from themes1 to themes19
-  activityName: "Kappi7581 • Music", // This is bot status Write Anything here 
+  musicardTheme:"themes1", //Goes from themes1 to themes19
+  activityName: "/help | Kappi7581 • Music", // This is bot status Write Anything here 
   activityType: "WATCHING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/vjk7XAHaQf",
   CheckmarkIcon: "https://cdn.discordapp.com/emojis/1277622865281417278.gif?v=1&size=48&quality=lossless",
